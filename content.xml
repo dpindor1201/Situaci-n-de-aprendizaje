@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260418135135S9AZVR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260418135135YTEDQF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Silicon Earth</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>How will technology be like in the future?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Dulce - The English Teacher</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776513082742</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo4a0riw-sx7i7fg5h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo4a0riw-sx7i7fg5h</odePageId>
+      <odeBlockId>block-1776442017627-4ay5dhhag</odeBlockId>
+      <blockName>Silicon Earth</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0riw-sx7i7fg5h</odePageId>
+          <odeBlockId>block-1776442017627-4ay5dhhag</odeBlockId>
+          <odeIdeviceId>idevice-1776442017624-xaqbkzsq1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 99.9589%; height: 26.8047px; border-color: #ba372a; border-style: dotted;">
+<tbody>
+<tr style="height: 26.8047px;">
+<td style="width: 18.4823%; text-align: center; height: 26.8047px;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Nivel</strong>: 2º ESO</span></td>
+<td style="width: 26.1505%; text-align: center; height: 26.8047px;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Temporalización</strong>: 5 sesiones</span></td>
+<td colspan="3" style="width: 55.3487%; text-align: center; height: 26.8047px;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Centro de interés</strong>: Nuevas tecnologías y redes sociales</span><br /></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<table border="1" style="width: 100.039%; border-color: #169179; border-style: dotted;">
+<tbody>
+<tr>
+<td style="width: 99.8636%; text-align: center;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Producto final</strong>: podcast en grupos de 4 o 5 alumnos/as</span></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<table border="1" style="width: 100.039%; border-color: #BA372A; border-style: dotted;">
+<tbody>
+<tr>
+<td style="width: 10.9033%; text-align: center;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Idioma</strong>: Inglés </span><br /><br /></td>
+<td style="width: 16.8963%; text-align: center;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Materias</strong> <strong>implicadas</strong>: inglés y tecnología</span></td>
+<td style="width: 72.2004%; text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Justificación</strong>: en un mundo en el que las nuevas tecnologías ocupan una parte muy importante de nuestro día a día, es muy necesario reflexionar sobre ellas y hacia dónde nos dirigen. Es por ello que con esta situación de aprendizaje mi alumnado de 2º de la ESO va a tener que realizar un podcast en el que intenten imaginar el futuro que nos depara el excesivo uso de las nuevas tecnología.</span></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<table border="1" style="width: 100.039%; border-color: #169179; border-style: dotted;">
+<tbody>
+<tr>
+<td style="width: 49.9318%;">
+<p><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Competencias específicas</strong></span><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">:</span><br /></p>
+<ul>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 2.</span></li>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 3.</span></li>
+</ul>
+</td>
+<td style="width: 49.9318%;">
+<p><strong><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Criterios de evaluación:</span></strong></p>
+<ul>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 2: 2.1.</span></li>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 3: 3.1 y 3.2.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">En los diferentes apartados, vas a poder leer todas las explicaciones sobre el producto final que vas a tener que crear junto a otros compañeros. Además también vas a contar con material que también te va a servir de ayuda para la creación del podcast. </span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776442017624-xaqbkzsq1","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<table border=\"1\" style=\"width: 99.9589%; height: 26.8047px; border-color: #ba372a; border-style: dotted;\">\n<tbody>\n<tr style=\"height: 26.8047px;\">\n<td style=\"width: 18.4823%; text-align: center; height: 26.8047px;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Nivel</strong>: 2º ESO</span></td>\n<td style=\"width: 26.1505%; text-align: center; height: 26.8047px;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Temporalización</strong>: 5 sesiones</span></td>\n<td colspan=\"3\" style=\"width: 55.3487%; text-align: center; height: 26.8047px;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Centro de interés</strong>: Nuevas tecnologías y redes sociales</span><br /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100.039%; border-color: #169179; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 99.8636%; text-align: center;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Producto final</strong>: podcast en grupos de 4 o 5 alumnos/as</span></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100.039%; border-color: #BA372A; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 10.9033%; text-align: center;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Idioma</strong>: Inglés </span><br /><br /></td>\n<td style=\"width: 16.8963%; text-align: center;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Materias</strong> <strong>implicadas</strong>: inglés y tecnología</span></td>\n<td style=\"width: 72.2004%; text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Justificación</strong>: en un mundo en el que las nuevas tecnologías ocupan una parte muy importante de nuestro día a día, es muy necesario reflexionar sobre ellas y hacia dónde nos dirigen. Es por ello que con esta situación de aprendizaje mi alumnado de 2º de la ESO va a tener que realizar un podcast en el que intenten imaginar el futuro que nos depara el excesivo uso de las nuevas tecnología.</span></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100.039%; border-color: #169179; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9318%;\">\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Competencias específicas</strong></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">:</span><br /></p>\n<ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 2.</span></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3.</span></li>\n</ul>\n</td>\n<td style=\"width: 49.9318%;\">\n<p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Criterios de evaluación:</span></strong></p>\n<ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 2: 2.1.</span></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: 3.1 y 3.2.</span></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">En los diferentes apartados, vas a poder leer todas las explicaciones sobre el producto final que vas a tener que crear junto a otros compañeros. Además también vas a contar con material que también te va a servir de ayuda para la creación del podcast. </span></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo4a0rix-lh9eryheg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo4a0rix-lh9eryheg</odePageId>
+      <odeBlockId>block-1776448145598-y62prj5f5</odeBlockId>
+      <blockName>Guía para protegerte en Internet</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rix-lh9eryheg</odePageId>
+          <odeBlockId>block-1776448145598-y62prj5f5</odeBlockId>
+          <odeIdeviceId>idevice-1776448145597-1qsltbeon</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Internet es una muy buena herramienta; puede ser muy útil a la hora de hacer proyectos y buscar información. Sin embargo, debemos tener cuidado cuando navegamos por la red, ya que también tiene sus peligros y sus normas. A continuación, te dejo una infografía que contiene unos consejos básicos para que puedas navegar por Internet con la seguridad de saber cómo proteger tu información personal. </span></p>
+<p><a href="https://canva.link/seyrnkzhzlh2fds" target="_blank" rel="noopener" title=""><img src="{{context_path}}/content/resources/mceclip1.png" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776448145597-1qsltbeon","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Internet es una muy buena herramienta; puede ser muy útil a la hora de hacer proyectos y buscar información. Sin embargo, debemos tener cuidado cuando navegamos por la red, ya que también tiene sus peligros y sus normas. A continuación, te dejo una infografía que contiene unos consejos básicos para que puedas navegar por Internet con la seguridad de saber cómo proteger tu información personal. </span></p>\n<p><a href=\"https://canva.link/seyrnkzhzlh2fds\" target=\"_blank\" rel=\"noopener\" title=\"\"><img src=\"{{context_path}}/content/resources/mceclip1.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo4a0riz-d4cqzql2p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto Final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo4a0riz-d4cqzql2p</odePageId>
+      <odeBlockId>block-1776449166216-brw7aui9q</odeBlockId>
+      <blockName>Your Podcast</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0riz-d4cqzql2p</odePageId>
+          <odeBlockId>block-1776449166216-brw7aui9q</odeBlockId>
+          <odeIdeviceId>idevice-1776449166214-g9c4rh8lx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>5 sesiones</dd></div><div class="inline"><dt><span title="Agrupación">Agrupación</span></dt><dd>4 o 5 personas</dd></div></dl><p style="text-align: center;"><strong>Producto Final: <span style="text-decoration: underline;">El Podcast</span></strong></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Las nuevas tecnologías ocupan un lugar muy importante en nuestras vidas; por ello, es muy normal que nos preguntemos qué nos depara el futuro y cómo serán estas dentro de unos años. El <strong>producto final</strong> que tenéis que realizar consiste en grabar un <strong>podcast </strong> en el que debatáis sobre el futuro de la tecnología que nos rodea. </span><br /></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">El podcast lo podéis entregar tanto en formato de <strong>solo audio,</strong> como si fuese un programa de radio, o en formato de <strong>vídeo y audio</strong>, como los que podéis ver en plataformas como YouTube, por ejemplo. </span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Para editar vuestros archivos de audio o vídeo, vais a utilizar dos aplicaciones diferentes: una de ellas es <strong>A</strong><strong>udacity </strong>y la otra <strong>CapCut</strong>. Si pincháis en los <em>emojis</em> que encontráis a continuación, accederéis a las páginas de las dos aplicaciones:</span></p>
+<table border="1" style="width: 100.039%; border-color: #843FA1; border-style: dotted;">
+<tbody>
+<tr>
+<td style="width: 49.9318%; text-align: center;"><a href="https://www.audacityteam.org" target="_blank" rel="noopener"><span style="font-size: 36pt; font-family: arial, helvetica, sans-serif;" title="">🎙️</span></a></td>
+<td style="width: 49.9318%; text-align: center;"><a href="https://www.capcut.com/es-es/" target="_blank" rel="noopener"><span style="font-family: arial, helvetica, sans-serif; font-size: 36pt;" title="">📹</span></a></td>
+</tr>
+</tbody>
+</table></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776449166214-g9c4rh8lx","textInfoDurationInput":"5 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"4 o 5 personas","textInfoParticipantsTextInput":"Agrupación","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>5 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Agrupación\">Agrupación</span></dt><dd>4 o 5 personas</dd></div></dl><p style=\"text-align: center;\"><strong>Producto Final: <span style=\"text-decoration: underline;\">El Podcast</span></strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Las nuevas tecnologías ocupan un lugar muy importante en nuestras vidas; por ello, es muy normal que nos preguntemos qué nos depara el futuro y cómo serán estas dentro de unos años. El <strong>producto final</strong> que tenéis que realizar consiste en grabar un <strong>podcast </strong> en el que debatáis sobre el futuro de la tecnología que nos rodea. </span><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">El podcast lo podéis entregar tanto en formato de <strong>solo audio,</strong> como si fuese un programa de radio, o en formato de <strong>vídeo y audio</strong>, como los que podéis ver en plataformas como YouTube, por ejemplo. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Para editar vuestros archivos de audio o vídeo, vais a utilizar dos aplicaciones diferentes: una de ellas es <strong>A</strong><strong>udacity </strong>y la otra <strong>CapCut</strong>. Si pincháis en los <em>emojis</em> que encontráis a continuación, accederéis a las páginas de las dos aplicaciones:</span></p>\n<table border=\"1\" style=\"width: 100.039%; border-color: #843FA1; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9318%; text-align: center;\"><a href=\"https://www.audacityteam.org\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 36pt; font-family: arial, helvetica, sans-serif;\" title=\"\">🎙️</span></a></td>\n<td style=\"width: 49.9318%; text-align: center;\"><a href=\"https://www.capcut.com/es-es/\" target=\"_blank\" rel=\"noopener\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 36pt;\" title=\"\">📹</span></a></td>\n</tr>\n</tbody>\n</table></div>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo4a0riz-cdyy80tbo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo4a0riz-cdyy80tbo</odePageId>
+      <odeBlockId>block-1776451462136-czdz1jtnb</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0riz-cdyy80tbo</odePageId>
+          <odeBlockId>block-1776451462136-czdz1jtnb</odeBlockId>
+          <odeIdeviceId>idevice-1776451462134-9jtnq3q3z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Aquí tenéis una serie de recursos que os van a ser de mucha utilidad para realizar vuestro producto final. Para acceder a los recursos tenéis que escanear el código QR para acceder a la aplicación Padlet y allí veréis todo organizado en: <strong>tutoriales para aprender a utilizar las aplicaciones</strong> y <strong>material auxiliar</strong> que podéis utilizar para recopilar la información necesaria para crear los guiones del podcast.</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><img src="{{context_path}}/content/resources/mceclip5.png" /></span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Por otro lado, aquí también hay una serie de recursos que yo suelo utilizar en clase para evaluar las diferentes actividades y para poder organizar las clases mejor. También os los dejo por si os resulta de ayuda, ya que hay diccionarios, por ejemplo. </span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><img src="{{context_path}}/content/resources/mceclip6.png" /></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776451462134-9jtnq3q3z","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Aquí tenéis una serie de recursos que os van a ser de mucha utilidad para realizar vuestro producto final. Para acceder a los recursos tenéis que escanear el código QR para acceder a la aplicación Padlet y allí veréis todo organizado en: <strong>tutoriales para aprender a utilizar las aplicaciones</strong> y <strong>material auxiliar</strong> que podéis utilizar para recopilar la información necesaria para crear los guiones del podcast.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><img src=\"{{context_path}}/content/resources/mceclip5.png\" /></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Por otro lado, aquí también hay una serie de recursos que yo suelo utilizar en clase para evaluar las diferentes actividades y para poder organizar las clases mejor. También os los dejo por si os resulta de ayuda, ya que hay diccionarios, por ejemplo. </span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><img src=\"{{context_path}}/content/resources/mceclip6.png\" /></span></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesiones</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+      <odeBlockId>block-1776441870701-u0gg4hoa7</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+          <odeBlockId>block-1776441870701-u0gg4hoa7</odeBlockId>
+          <odeIdeviceId>idevice-1776441870699-5thbjhpe3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En el siguiente <a href="https://mm.tt/map/3982386339?t=5m7yhEzvnq" target="_blank" title="" rel="noopener">enlace</a>, puedes ver un esquema de cómo van a transcurrir las sesiones para que tengas una idea clara de lo que se espera y lo que vas a tener que hacer. De todas maneras en las pestañas que vas a encontrar más abajo, puedes ver qué vamos a hacer sesión a sesión y qué criterios se van a evaluar. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776441870699-5thbjhpe3","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p style=\"text-align: justify;\">En el siguiente <a href=\"https://mm.tt/map/3982386339?t=5m7yhEzvnq\" target=\"_blank\" title=\"\" rel=\"noopener\">enlace</a>, puedes ver un esquema de cómo van a transcurrir las sesiones para que tengas una idea clara de lo que se espera y lo que vas a tener que hacer. De todas maneras en las pestañas que vas a encontrar más abajo, puedes ver qué vamos a hacer sesión a sesión y qué criterios se van a evaluar. </p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+      <odeBlockId>block-1776453106284-jfn86rjmu</odeBlockId>
+      <blockName>Sesión 1</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+          <odeBlockId>block-1776453106284-jfn86rjmu</odeBlockId>
+          <odeIdeviceId>idevice-1776453106282-n60f3ezrm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>55 minutos</dd></div><div class="inline"><dt><span title="Agrupación">Agrupación</span></dt><dd>Individual y parejas</dd></div></dl><p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Tarea 1: </strong>explicamos el producto final (20')</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Explicamos en qué consiste el producto final, vemos la rúbrica y la <em>Checklist,</em> que encontraréis en la siguiente página, y con la que podéis comprobar si habéis incluido todo lo que se pide o no. Esta tarea se hace de manera <strong>individual.</strong></span></p>
+<p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Tarea 2</strong>: vemos los vídeos explicativos (20')</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Durante los siguientes 20 minutos de la clase, vamos a visualizar los vídeo que he compartido con vosotros en el padlet anterior sobre el funcionamiento de las aplicaciones que vais a utilizar para realizar el producto final. Esta actividad se realiza por <strong>parejas</strong>. Herramientas que vais a utilizar: <strong>YouTube.</strong></span></p>
+<p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Tarea 3</strong>: practicamos con las aplicaciones (15')</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Para esta tarea os voy a proporcionar algunos fragmentos de vídeo y audio para que podáis practicar con las dos aplicaciones que he propuesto para esta tarea. Esta actividad se realiza por <strong>parejas</strong>. Herramientas que vais a utilizar: <strong>CapCut</strong> o <strong>Audacity.</strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"></span><br /></p>
+<p> </p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Criterios que se van a evaluar" data-text-a="Criterios que se van a evaluar" data-text-b="Criterios que se van a evaluar"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ul>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 2: <strong>2.1.</strong></span><br /></li>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 3: <strong>3.2.</strong></span></li>
+</ul></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776453106282-n60f3ezrm","textInfoDurationInput":"55 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual y parejas","textInfoParticipantsTextInput":"Agrupación","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>55 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupación\">Agrupación</span></dt><dd>Individual y parejas</dd></div></dl><p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Tarea 1: </strong>explicamos el producto final (20')</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Explicamos en qué consiste el producto final, vemos la rúbrica y la <em>Checklist,</em> que encontraréis en la siguiente página, y con la que podéis comprobar si habéis incluido todo lo que se pide o no. Esta tarea se hace de manera <strong>individual.</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Tarea 2</strong>: vemos los vídeos explicativos (20')</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Durante los siguientes 20 minutos de la clase, vamos a visualizar los vídeo que he compartido con vosotros en el padlet anterior sobre el funcionamiento de las aplicaciones que vais a utilizar para realizar el producto final. Esta actividad se realiza por <strong>parejas</strong>. Herramientas que vais a utilizar: <strong>YouTube.</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Tarea 3</strong>: practicamos con las aplicaciones (15')</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Para esta tarea os voy a proporcionar algunos fragmentos de vídeo y audio para que podáis practicar con las dos aplicaciones que he propuesto para esta tarea. Esta actividad se realiza por <strong>parejas</strong>. Herramientas que vais a utilizar: <strong>CapCut</strong> o <strong>Audacity.</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"></span><br /></p>\n<p> </p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Criterios que se van a evaluar\" data-text-a=\"Criterios que se van a evaluar\" data-text-b=\"Criterios que se van a evaluar\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 2: <strong>2.1.</strong></span><br /></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: <strong>3.2.</strong></span></li>\n</ul></div></div>","textFeedbackInput":"Criterios que se van a evaluar","textFeedbackTextarea":"<ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 2: <strong>2.1.</strong></span><br /></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: <strong>3.2.</strong></span></li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+      <odeBlockId>block-1776453986644-kt63kcb5i</odeBlockId>
+      <blockName>Sesión 2</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+          <odeBlockId>block-1776453986644-kt63kcb5i</odeBlockId>
+          <odeIdeviceId>idevice-1776453986644-am3v1h8va</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>55 minutos</dd></div><div class="inline"><dt><span title="Agrupación">Agrupación</span></dt><dd>Individual y grupos</dd></div></dl><p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Tarea 1: </strong>leemos y vemos el material de apoyo (30')</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Para realizar esta actividad vamos a volver a necesitar los recursos que os dejé en Padlet, ya que ahí hay material de apoyo. No obstante también podéis buscar más información en la red. Esta tarea se hace de manera <strong>individual. </strong>Herramientas que podéis utilizar: <strong>YouTube</strong> y los diferentes <strong>navegadores</strong> que hay en la web.</span></p>
+<p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Tarea 2</strong>: seleccionamos los puntos clave (25')</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Una vez que ya tengáis información suficiente, es hora de ponerla en común con el resto de integrantes del grupo para poder sacar las ideas clave que van a ser la base de nuestro guion. Esta actividad se realiza por <strong>grupos</strong>. Herramientas que podéis utilizar: <strong>procesadores de texto</strong>.</span></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Criterios que se van a evaluar" data-text-a="Criterios que se van a evaluar" data-text-b="Criterios que se van a evaluar"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ul>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 2: <strong>2.1.</strong></span><br /></li>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 3: <strong>3.2.</strong></span></li>
+</ul></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776453986644-am3v1h8va","textInfoDurationInput":"55 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual y grupos","textInfoParticipantsTextInput":"Agrupación","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>55 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupación\">Agrupación</span></dt><dd>Individual y grupos</dd></div></dl><p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Tarea 1: </strong>leemos y vemos el material de apoyo (30')</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Para realizar esta actividad vamos a volver a necesitar los recursos que os dejé en Padlet, ya que ahí hay material de apoyo. No obstante también podéis buscar más información en la red. Esta tarea se hace de manera <strong>individual. </strong>Herramientas que podéis utilizar: <strong>YouTube</strong> y los diferentes <strong>navegadores</strong> que hay en la web.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Tarea 2</strong>: seleccionamos los puntos clave (25')</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Una vez que ya tengáis información suficiente, es hora de ponerla en común con el resto de integrantes del grupo para poder sacar las ideas clave que van a ser la base de nuestro guion. Esta actividad se realiza por <strong>grupos</strong>. Herramientas que podéis utilizar: <strong>procesadores de texto</strong>.</span></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Criterios que se van a evaluar\" data-text-a=\"Criterios que se van a evaluar\" data-text-b=\"Criterios que se van a evaluar\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 2: <strong>2.1.</strong></span><br /></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: <strong>3.2.</strong></span></li>\n</ul></div></div>","textFeedbackInput":"Criterios que se van a evaluar","textFeedbackTextarea":"<ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 2: <strong>2.1.</strong></span><br /></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: <strong>3.2.</strong></span></li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+      <odeBlockId>block-1776454138195-o0jp1ligb</odeBlockId>
+      <blockName>Sesión 3</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+          <odeBlockId>block-1776454138195-o0jp1ligb</odeBlockId>
+          <odeIdeviceId>idevice-1776454138195-v0abu045t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>55 minutos</dd></div><div class="inline"><dt><span title="Agrupación">Agrupación</span></dt><dd>Grupos</dd></div></dl><p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Tarea 1: </strong>creamos el guion (55')</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Llegó el momento de crear el guion. Esta es la base de vuestro podcast y aquí tenéis que incluir <strong>todo</strong> lo que queráis decir y que aparezca en vuestro producto final. Esta tarea se hace por <strong>grupos. </strong>Herramientas que podéis utilizar:<strong> procesadores de texto</strong>.</span></p>
+<ul>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Importante:</strong> tanto el audio como el vídeo lo tenéis que grabar fuera del centro educativo, es decir, lo tendríais que grabar después de esta sesión para que podáis editarle en la siguiente sesión. </span><br /></li>
+</ul><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Criterios que se van a evaluar" data-text-a="Criterios que se van a evaluar" data-text-b="Criterios que se van a evaluar"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ul>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 3: <strong>3.1 y 3.2.</strong></span></li>
+</ul></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776454138195-v0abu045t","textInfoDurationInput":"55 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos","textInfoParticipantsTextInput":"Agrupación","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>55 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupación\">Agrupación</span></dt><dd>Grupos</dd></div></dl><p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Tarea 1: </strong>creamos el guion (55')</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Llegó el momento de crear el guion. Esta es la base de vuestro podcast y aquí tenéis que incluir <strong>todo</strong> lo que queráis decir y que aparezca en vuestro producto final. Esta tarea se hace por <strong>grupos. </strong>Herramientas que podéis utilizar:<strong> procesadores de texto</strong>.</span></p>\n<ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Importante:</strong> tanto el audio como el vídeo lo tenéis que grabar fuera del centro educativo, es decir, lo tendríais que grabar después de esta sesión para que podáis editarle en la siguiente sesión. </span><br /></li>\n</ul><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Criterios que se van a evaluar\" data-text-a=\"Criterios que se van a evaluar\" data-text-b=\"Criterios que se van a evaluar\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: <strong>3.1 y 3.2.</strong></span></li>\n</ul></div></div>","textFeedbackInput":"Criterios que se van a evaluar","textFeedbackTextarea":"<ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: <strong>3.1 y 3.2.</strong></span></li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+      <odeBlockId>block-1776454142427-d6rl7e7qs</odeBlockId>
+      <blockName>Sesión 4</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+          <odeBlockId>block-1776454142427-d6rl7e7qs</odeBlockId>
+          <odeIdeviceId>idevice-1776454142427-fcahnl3go</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>55 minutos</dd></div><div class="inline"><dt><span title="Agrupación">Agrupación</span></dt><dd>Grupos</dd></div></dl><p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Tarea 1: </strong>editamos el producto final</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Esta sesión va a estar dedicada íntegramente a la edición del archivo final. ¡Ya queda poco para que veamos el resultado! ¡Ánimo!</span></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Criterios que se van a evaluar" data-text-a="Criterios que se van a evaluar" data-text-b="Criterios que se van a evaluar"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ul>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 2: <strong>2.1.</strong></span><br /></li>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 3: <strong>3.1 y </strong><strong>3.2.</strong></span></li>
+</ul></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776454142427-fcahnl3go","textInfoDurationInput":"55 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos","textInfoParticipantsTextInput":"Agrupación","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>55 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupación\">Agrupación</span></dt><dd>Grupos</dd></div></dl><p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Tarea 1: </strong>editamos el producto final</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Esta sesión va a estar dedicada íntegramente a la edición del archivo final. ¡Ya queda poco para que veamos el resultado! ¡Ánimo!</span></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Criterios que se van a evaluar\" data-text-a=\"Criterios que se van a evaluar\" data-text-b=\"Criterios que se van a evaluar\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 2: <strong>2.1.</strong></span><br /></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: <strong>3.1 y </strong><strong>3.2.</strong></span></li>\n</ul></div></div>","textFeedbackInput":"Criterios que se van a evaluar","textFeedbackTextarea":"<ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 2: <strong>2.1.</strong></span><br /></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: <strong>3.1 y </strong><strong>3.2.</strong></span></li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+      <odeBlockId>block-1776454157235-7dxnhduwu</odeBlockId>
+      <blockName>Sesión 5</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj0-3cbj3pd35</odePageId>
+          <odeBlockId>block-1776454157235-7dxnhduwu</odeBlockId>
+          <odeIdeviceId>idevice-1776454157235-in4tnjvmo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>55 minutos</dd></div><div class="inline"><dt><span title="Agrupación">Agrupación</span></dt><dd>Grupos</dd></div></dl><p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Tarea 1: </strong>presentamos el producto final</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 16px;">¡Ahora sí! Vamos a ver el trabajo que habéis realizado. Cada grupo dispone de <strong>10 minutos</strong> máximo para realizar su presentación del producto final </span></span></p>
+<p> </p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Criterios que se van a evaluar" data-text-a="Criterios que se van a evaluar" data-text-b="Criterios que se van a evaluar"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ul>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 2: <strong>2.1.</strong></span><br /></li>
+<li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Competencia específica 3: <strong>3.1 y </strong><strong>3.2.</strong></span></li>
+</ul></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776454157235-in4tnjvmo","textInfoDurationInput":"55 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos","textInfoParticipantsTextInput":"Agrupación","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>55 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupación\">Agrupación</span></dt><dd>Grupos</dd></div></dl><p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Tarea 1: </strong>presentamos el producto final</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px;\">¡Ahora sí! Vamos a ver el trabajo que habéis realizado. Cada grupo dispone de <strong>10 minutos</strong> máximo para realizar su presentación del producto final </span></span></p>\n<p> </p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Criterios que se van a evaluar\" data-text-a=\"Criterios que se van a evaluar\" data-text-b=\"Criterios que se van a evaluar\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 2: <strong>2.1.</strong></span><br /></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: <strong>3.1 y </strong><strong>3.2.</strong></span></li>\n</ul></div></div>","textFeedbackInput":"Criterios que se van a evaluar","textFeedbackTextarea":"<ul>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 2: <strong>2.1.</strong></span><br /></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Competencia específica 3: <strong>3.1 y </strong><strong>3.2.</strong></span></li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo4a0rj1-deuoq342m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj1-deuoq342m</odePageId>
+      <odeBlockId>block-1776507747494-cao7ypzt7</odeBlockId>
+      <blockName>Checklist</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj1-deuoq342m</odePageId>
+          <odeBlockId>block-1776507747494-cao7ypzt7</odeBlockId>
+          <odeIdeviceId>idevice-1776507747491-0plcb74ie</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Complete the checklist ticking the boxes for all finished activities.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A4%A7%A2%A5%A5%A6%A5%A6%AB%A3%BF%A2%E2%FE%F1%F0%A5%A6%FB%F7%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0-%D1a%FF%FD%B2%E1%F3%F1%F3%E0%B2%E7%FC%B2%A3%A2%B2%F7%FC%B2%F7%FE%B2%E2%FD%F6%F1%F3%E1%E6%AD%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%D5%E7%7F%F3%B2%E2%E0s%F1%E6%FB%F1%F3%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%F7%FE%B2%FFs%EA%FB%FF%FD%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%B2%F7%FC%B2%FC%E7%F7%E1%E6%E0%FD%B2%E6%E0%F3%F0%F3%F8%FD%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DC%FD%B2%FE%F7%FD%B2%F6%F7%FE%B2%E2%F3%E2%F7%FE%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%DF%FB%B2%E2%FD%E1%E6%E7%E0%F3%B2%F7%E1%B2%FE%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%BA%F7%F8%BC%B2%DC%FD%B2%E6%F7%FC%F5%FD%B2%FE%F3%E1%B2%FF%F3%FC%FD%E1%B2%F7%FC%B2%F7%FE%B2%F0%FD%FE%E1%FB%FE%FE%FD%BB%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DC%FD%B2%E7%E6%FB%FE%FB%E8%FD%B2%FF%E7%FE%F7%E6%FB%FE%FE%F3%E1%B2%BA%F7%F8%BC%B2%FF%FF%FF%BB%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%DF%FB%B2%E2%E0%FD%FC%E7%FC%F1%FB%F3%F1%FBa%FC%B2%F7%E1%B2%F0%E7%F7%FC%F3%B2%E2%FD%E0%E3%E7%F7%B2%FA%F7%B2%E2%E0%F3%F1%E6%FB%F1%F3%F6%FD%B2%E2%E0%F7%E4%FB%F3%FF%F7%FC%E6%F7%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C6%FB%F7%FC%F7%B2%FE%F3%B2%F6%E7%E0%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E1%F7%B2%FF%F7%B2%E2%FB%F6%F7%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DE%F3%B2%F5%E0%F3%FFs%E6%FB%F1%F3%B2%EB%B2%F7%FE%B2%E4%FD%F1%F3%F0%E7%FE%F3%E0%FB%FD%B2%E3%E7%F7%B2%E7%E6%FB%FE%FB%E8%FD%B2%E1%FD%FC%B2%F3%F6%F7%F1%E7%F3%F6%FD%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F7%F6%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%D6%FD%FC%F7%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%DB%FC%B2%E2%E0%FD%F5%E0%F7%E1%E1%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%DC%FD%E6%B2%F1%FD%FF%E2%FE%F7%E6%F7%F6%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DC%E7%FF%F0%F7%E0%B2%FD%F4%B2%E6%F3%E1%F9%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%F3%FF%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D6%F3%E6%F7%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%FD%E5%FC%FE%FD%F3%F6%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%F1%FA%F7%F1%F9%FE%FB%E1%E6%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C5%F7%FB%F5%FA%E6%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%FD%FB%FC%E6%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%FD%FB%FC%E6%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%E1%E6%F3%E0%E6%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0%D3%E0%F7%B2%EB%FD%E7%B2%E1%E7%E0%F7%B2%EB%FD%E7%B2%E5%F3%FC%E6%B2%F1%FE%F7%F3%E0%B2%F3%FE%FE%B2%F4%FD%E0%FF%B2%F4%FB%F7%FE%F6%E1%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Unsupported browser</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj1-deuoq342m</odePageId>
+      <odeBlockId>block-1776508049884-66aiclsqy</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj1-deuoq342m</odePageId>
+          <odeBlockId>block-1776508049884-66aiclsqy</odeBlockId>
+          <odeIdeviceId>idevice-1776508049881-mp37m1lok</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Aquí tenéis la rúbrica que voy a utilizar para evaluar vuestro trabajo. Os dejo un enlace que os permite leer la rúbrica tanto en <strong>inglés</strong> como en <strong>español</strong>. Para que así os vayáis familiarizando con la lengua. </span></p>
+<table border="1" style="width: 100.039%; border-color: #843FA1; border-style: dotted;">
+<tbody>
+<tr>
+<td style="width: 49.9318%; text-align: center;"><a href="https://drive.google.com/file/d/1drG4cQmdu2ooHMuKyttEqo-pQ2IbnO6M/view?usp=sharing" target="_blank" rel="noopener"><span style="font-size: 36pt; font-family: arial, helvetica, sans-serif;" title="">🇬🇧</span></a></td>
+<td style="width: 49.9318%; text-align: center;"><a href="https://drive.google.com/file/d/1tbJUmHAhhzpPzCRNjb7io9LDk79xrobs/view?usp=sharing" target="_blank" rel="noopener"><span style="font-size: 36pt; font-family: arial, helvetica, sans-serif;" title="">🇪🇸</span></a></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776508049881-mp37m1lok","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Aquí tenéis la rúbrica que voy a utilizar para evaluar vuestro trabajo. Os dejo un enlace que os permite leer la rúbrica tanto en <strong>inglés</strong> como en <strong>español</strong>. Para que así os vayáis familiarizando con la lengua. </span></p>\n<table border=\"1\" style=\"width: 100.039%; border-color: #843FA1; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9318%; text-align: center;\"><a href=\"https://drive.google.com/file/d/1drG4cQmdu2ooHMuKyttEqo-pQ2IbnO6M/view?usp=sharing\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 36pt; font-family: arial, helvetica, sans-serif;\" title=\"\">🇬🇧</span></a></td>\n<td style=\"width: 49.9318%; text-align: center;\"><a href=\"https://drive.google.com/file/d/1tbJUmHAhhzpPzCRNjb7io9LDk79xrobs/view?usp=sharing\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 36pt; font-family: arial, helvetica, sans-serif;\" title=\"\">🇪🇸</span></a></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj1-deuoq342m</odePageId>
+      <odeBlockId>block-1776509495078-4bqa5hdib</odeBlockId>
+      <blockName>Autoevaluación y evaluación docente</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj1-deuoq342m</odePageId>
+          <odeBlockId>block-1776509495078-4bqa5hdib</odeBlockId>
+          <odeIdeviceId>idevice-1776509495076-nvoe1z86u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Una vez finalizada la presentación, llega la hora de evaluar vuestro trabajo durante estas sesiones y también mi trabajo como profesora. Es importante que seáis sinceros, ya que estas respuestas van a servir como reflexión personal para mejorar en el futuro. </span></p>
+<p style="text-align: justify;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeC2x--a9RpLnKeUoSbjUYrL0Z7_KsAD3M5cvOW7tITAAlBqg/viewform?usp=header" target="_blank" rel="noopener"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;" title="">¡Encuesta!</span></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776509495076-nvoe1z86u","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Una vez finalizada la presentación, llega la hora de evaluar vuestro trabajo durante estas sesiones y también mi trabajo como profesora. Es importante que seáis sinceros, ya que estas respuestas van a servir como reflexión personal para mejorar en el futuro. </span></p>\n<p style=\"text-align: justify;\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeC2x--a9RpLnKeUoSbjUYrL0Z7_KsAD3M5cvOW7tITAAlBqg/viewform?usp=header\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\" title=\"\">¡Encuesta!</span></a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo4a0rj2-0dyzkq4uw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj2-0dyzkq4uw</odePageId>
+      <odeBlockId>block-1776509824489-s93k79hyy</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj2-0dyzkq4uw</odePageId>
+          <odeBlockId>block-1776509824489-s93k79hyy</odeBlockId>
+          <odeIdeviceId>idevice-1776509824488-9fcsnabil</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">A continuación voy a incluir otros aspectos que también forman parte de esta situación de aprendizaje:</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776509824488-9fcsnabil","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">A continuación voy a incluir otros aspectos que también forman parte de esta situación de aprendizaje:</span></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo4a0rj3-dhnt5g9yz</odePageId>
+  <odeParentPageId>page-mo4a0rj2-0dyzkq4uw</odeParentPageId>
+  <pageName>Concreción curricular</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Concreción curricular</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Concreción curricular</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Concreción curricular</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj3-dhnt5g9yz</odePageId>
+      <odeBlockId>block-1776509982189-anpowllda</odeBlockId>
+      <blockName>Competencias, criterios y saberes básicos</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj3-dhnt5g9yz</odePageId>
+          <odeBlockId>block-1776509982189-anpowllda</odeBlockId>
+          <odeIdeviceId>idevice-1776509982187-o9a5a36zf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Competencias específicas</strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><span style="text-decoration: underline;">Competencia específica 2</span>. Producir textos originales orales, escritos y multimodales, de extensión media, sencillos y con una organización clara, buscando en fuentes fiables y usando estrategias tales como la planificación, la compensación o la autorreparación, para expresar de forma creativa, adecuada y coherente mensajes relevantes y para responder a propósitos comunicativos concretos. </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">Competencia específica 3</span>. Interactuar con otras personas de manera oral y escrita con creciente autonomía, usando estrategias de cooperación y empleando recursos analógicos y digitales, para responder a propósitos comunicativos concretos en intercambios respetuosos con las normas de cortesía. </span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Criterios de evaluación</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">2.1.</span> Expresar oralmente textos breves, sencillos, estructurados, comprensibles y adecuados a la situación comunicativa sobre asuntos cotidianos y frecuentes, de relevancia para el alumnado, con el fin de describir, narrar e informar sobre temas concretos, en diferentes soportes analógicos y digitales, utilizando de forma guiada recursos verbales y no verbales, así como estrategias de planificación y control de la producción. </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">3.1. </span>Planificar y participar en situaciones interactivas breves y sencillas sobre temas cotidianos, de relevancia personal y próximos a su experiencia, a través de diversos soportes analógicos y digitales en entornos síncronos o asíncronos, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando empatía y respeto por la cortesía lingüística y la etiqueta digital, así como por las diferentes necesidades, ideas, inquietudes, iniciativas y motivaciones de las y los interlocutores. </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">3.2.</span> Seleccionar, organizar y utilizar progresivamente, en entornos próximos, de relevancia personal, estrategias adecuadas para iniciar, mantener y terminar la comunicación; tomar y ceder la palabra; y solicitar y formular aclaraciones y explicaciones, comparar y resumir brevemente en situaciones cercanas a su entorno personal, familiar y escolar. </span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>Saberes básicos</strong></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>A. Comunicación</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">LEX.2.A.2.</span> Estrategias básicas para planificar, ejecutar, controlar y reparar la producción, coproducción, y comprensión de textos orales, escritos y multimodales, así como aplicar técnicas para extraer e interpretar las ideas principales y secundarias de estos textos. </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">LEX.2.A.4. </span>Funciones comunicativas básicas adecuadas al ámbito y al contexto comunicativo: saludar, despedirse, presentar y presentarse; describir personas, objetos y lugares; situar eventos en el tiempo; situar objetos, personas y lugares en el espacio; pedir e intercambiar información sobre cuestiones cotidianas; dar y pedir instrucciones y órdenes; ofrecer, aceptar y rechazar ayuda, proposiciones o sugerencias; expresar parcialmente el gusto o el interés y emociones básicas; narrar acontecimientos pasados, describir situaciones presentes, y enunciar sucesos futuros; expresar la opinión, la posibilidad, la capacidad, la obligación y la prohibición. </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">LEX.2.A.5. </span>Modelos contextuales y géneros discursivos básicos en la comprensión, producción y coproducción de textos orales, escritos y multimodales, breves y sencillos, literarios y no literarios: características y reconocimiento del contexto (participantes y situación), expectativas generadas por el contexto; organización y estructuración según el género, la función textual y la estructura. </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">LEX.2.A.7.</span> Léxico de uso común y de interés para el alumnado relativo a identificación personal, relaciones interpersonales, lugares y entornos cercanos, ocio y tiempo libre, vida cotidiana, salud y actividad física, vivienda y hogar, clima y entorno natural, tecnologías de la información y la comunicación.<br /><span style="text-decoration: underline;">LEX.2.A.8.</span> Patrones sonoros, acentuales, rítmicos y de entonación básicos, y significados e intenciones comunicativas generales asociadas a dichos patrones. </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">LEX.2.A.10. </span>Convenciones y estrategias conversacionales básicas, en formato síncrono o asíncrono, para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, pedir y dar aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, etc.<br /></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong>B. Plurilingüismo</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">LEX.2.B.1.</span> Estrategias y técnicas para responder eficazmente a una necesidad comunicativa básica y concreta de forma comprensible, a pesar de las limitaciones derivadas del nivel de competencia en la lengua extranjera y en las demás lenguas del repertorio lingüístico propio. </span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">En el apartado «<strong>sesiones</strong>», se pueden ver cómo están los criterios asociados a las diferentes actividades. </span></li>
+</ul>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776509982187-o9a5a36zf","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Competencias específicas</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"text-decoration: underline;\">Competencia específica 2</span>. Producir textos originales orales, escritos y multimodales, de extensión media, sencillos y con una organización clara, buscando en fuentes fiables y usando estrategias tales como la planificación, la compensación o la autorreparación, para expresar de forma creativa, adecuada y coherente mensajes relevantes y para responder a propósitos comunicativos concretos. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">Competencia específica 3</span>. Interactuar con otras personas de manera oral y escrita con creciente autonomía, usando estrategias de cooperación y empleando recursos analógicos y digitales, para responder a propósitos comunicativos concretos en intercambios respetuosos con las normas de cortesía. </span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Criterios de evaluación</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">2.1.</span> Expresar oralmente textos breves, sencillos, estructurados, comprensibles y adecuados a la situación comunicativa sobre asuntos cotidianos y frecuentes, de relevancia para el alumnado, con el fin de describir, narrar e informar sobre temas concretos, en diferentes soportes analógicos y digitales, utilizando de forma guiada recursos verbales y no verbales, así como estrategias de planificación y control de la producción. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">3.1. </span>Planificar y participar en situaciones interactivas breves y sencillas sobre temas cotidianos, de relevancia personal y próximos a su experiencia, a través de diversos soportes analógicos y digitales en entornos síncronos o asíncronos, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando empatía y respeto por la cortesía lingüística y la etiqueta digital, así como por las diferentes necesidades, ideas, inquietudes, iniciativas y motivaciones de las y los interlocutores. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">3.2.</span> Seleccionar, organizar y utilizar progresivamente, en entornos próximos, de relevancia personal, estrategias adecuadas para iniciar, mantener y terminar la comunicación; tomar y ceder la palabra; y solicitar y formular aclaraciones y explicaciones, comparar y resumir brevemente en situaciones cercanas a su entorno personal, familiar y escolar. </span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Saberes básicos</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"text-decoration: underline; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>A. Comunicación</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">LEX.2.A.2.</span> Estrategias básicas para planificar, ejecutar, controlar y reparar la producción, coproducción, y comprensión de textos orales, escritos y multimodales, así como aplicar técnicas para extraer e interpretar las ideas principales y secundarias de estos textos. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">LEX.2.A.4. </span>Funciones comunicativas básicas adecuadas al ámbito y al contexto comunicativo: saludar, despedirse, presentar y presentarse; describir personas, objetos y lugares; situar eventos en el tiempo; situar objetos, personas y lugares en el espacio; pedir e intercambiar información sobre cuestiones cotidianas; dar y pedir instrucciones y órdenes; ofrecer, aceptar y rechazar ayuda, proposiciones o sugerencias; expresar parcialmente el gusto o el interés y emociones básicas; narrar acontecimientos pasados, describir situaciones presentes, y enunciar sucesos futuros; expresar la opinión, la posibilidad, la capacidad, la obligación y la prohibición. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">LEX.2.A.5. </span>Modelos contextuales y géneros discursivos básicos en la comprensión, producción y coproducción de textos orales, escritos y multimodales, breves y sencillos, literarios y no literarios: características y reconocimiento del contexto (participantes y situación), expectativas generadas por el contexto; organización y estructuración según el género, la función textual y la estructura. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">LEX.2.A.7.</span> Léxico de uso común y de interés para el alumnado relativo a identificación personal, relaciones interpersonales, lugares y entornos cercanos, ocio y tiempo libre, vida cotidiana, salud y actividad física, vivienda y hogar, clima y entorno natural, tecnologías de la información y la comunicación.<br /><span style=\"text-decoration: underline;\">LEX.2.A.8.</span> Patrones sonoros, acentuales, rítmicos y de entonación básicos, y significados e intenciones comunicativas generales asociadas a dichos patrones. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">LEX.2.A.10. </span>Convenciones y estrategias conversacionales básicas, en formato síncrono o asíncrono, para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, pedir y dar aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, etc.<br /></span></p>\n<p style=\"text-align: justify;\"><span style=\"text-decoration: underline; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>B. Plurilingüismo</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">LEX.2.B.1.</span> Estrategias y técnicas para responder eficazmente a una necesidad comunicativa básica y concreta de forma comprensible, a pesar de las limitaciones derivadas del nivel de competencia en la lengua extranjera y en las demás lenguas del repertorio lingüístico propio. </span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">En el apartado «<strong>sesiones</strong>», se pueden ver cómo están los criterios asociados a las diferentes actividades. </span></li>\n</ul>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo4a0rj3-4vygg3o59</odePageId>
+  <odeParentPageId>page-mo4a0rj2-0dyzkq4uw</odeParentPageId>
+  <pageName>Metodología</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj3-4vygg3o59</odePageId>
+      <odeBlockId>block-1776510740111-paisr5qyl</odeBlockId>
+      <blockName>Metodología</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj3-4vygg3o59</odePageId>
+          <odeBlockId>block-1776510740111-paisr5qyl</odeBlockId>
+          <odeIdeviceId>idevice-1776510740109-x5fsurf0h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">La metodología que se va a utilizar en esta situación de aprendizaje es activa y motivadora para promover el aprendizaje significativo. Para ello, se va a utilizar el <strong>trabajo</strong> <strong>cooperativo</strong>, en el que el alumnado va a trabajar en grupos para crear el producto final, que es un <strong>podcast </strong>en el que van a reflexionar sobre el futuro de las nuevas tecnologías. Asimismo, también se va a emplear en <strong>A</strong><strong>prendizaje Basado en Proyectos </strong>(<strong>ABP</strong>), ya que todas las actividades conducen a la creación del podcast. </span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Por otro lado, también se tiene en cuenta el <strong>Diseño Universal de Aprendizaje </strong>(<strong>DUA</strong>), ya que se presentan materiales diversos para ayudar al alumnado a la realización del producto final. Estos materiales incluyen infografías o vídeos, por ejemplo. </span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776510740109-x5fsurf0h","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">La metodología que se va a utilizar en esta situación de aprendizaje es activa y motivadora para promover el aprendizaje significativo. Para ello, se va a utilizar el <strong>trabajo</strong> <strong>cooperativo</strong>, en el que el alumnado va a trabajar en grupos para crear el producto final, que es un <strong>podcast </strong>en el que van a reflexionar sobre el futuro de las nuevas tecnologías. Asimismo, también se va a emplear en <strong>A</strong><strong>prendizaje Basado en Proyectos </strong>(<strong>ABP</strong>), ya que todas las actividades conducen a la creación del podcast. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Por otro lado, también se tiene en cuenta el <strong>Diseño Universal de Aprendizaje </strong>(<strong>DUA</strong>), ya que se presentan materiales diversos para ayudar al alumnado a la realización del producto final. Estos materiales incluyen infografías o vídeos, por ejemplo. </span></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo4a0rj4-4yqfxjwy1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo4a0rj4-4yqfxjwy1</odePageId>
+      <odeBlockId>block-1776511048268-10ecnv3de</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo4a0rj4-4yqfxjwy1</odePageId>
+          <odeBlockId>block-1776511048268-10ecnv3de</odeBlockId>
+          <odeIdeviceId>idevice-1776511048266-3hcbx9alh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>Silicon Earth</strong></p>
+<p style="text-align: center;">2º ESO</p>
+<p style="text-align: center;"><strong>Autoría:</strong> Dulce - The English Teacher</p>
+<p style="text-align: center;">Recurso creado con <a href="https://exelearning.net" target="_blank" title="" rel="noopener">eXeLearning</a> 3.0</p>
+<p style="text-align: center;">Silicon Earth © 2026 by Dulce - The English Teacher is licensed under CC BY-SA 4.0   </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776511048266-3hcbx9alh","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p style=\"text-align: center;\"><strong>Silicon Earth</strong></p>\n<p style=\"text-align: center;\">2º ESO</p>\n<p style=\"text-align: center;\"><strong>Autoría:</strong> Dulce - The English Teacher</p>\n<p style=\"text-align: center;\">Recurso creado con <a href=\"https://exelearning.net\" target=\"_blank\" title=\"\" rel=\"noopener\">eXeLearning</a> 3.0</p>\n<p style=\"text-align: center;\">Silicon Earth © 2026 by Dulce - The English Teacher is licensed under CC BY-SA 4.0   </p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
